@@ -17,4 +17,4 @@ jobs:
 
       - name: Run Python
 
-        run: python app.py
+        run: highest_lowest_average.py
